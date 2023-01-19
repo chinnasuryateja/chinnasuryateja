@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Insurance fraud transactions**
+- 🔭 I’m currently working on **Data Science ML projects**
 
-- 🌱 I’m currently learning **Big data,NLP,CV**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **Machine Learning algorithms, Python, SQL**
 
