@@ -29,6 +29,19 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **cstkolusu@gmail.com**
 
+**TECHNICAL SKILLS
+
+Programming Languages and Libraries:  Python, Pandas, NumPy, Scikit Learn
+
+Machine Learning & Applications: Data Preprocessing, Supervised & Unsupervised Learning, Deep Learning, Statistics
+
+Cloud: Deployment on AWS
+
+Data Visualization: Seaborn, Matplotlib, Plotly, Tableau
+
+Database: SQL, MySQL, MongoDB
+
+Tools: MS Excel, MS Word, MS PowerPoint**
 
 
 <h3 align="left">Connect with me:</h3>
