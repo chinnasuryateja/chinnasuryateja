@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am good at reading minds
 -->
 
-<h1 align="center">Hi 👋, I'm Name</h1>
+<h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">Intro</h3>
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Machine Learning algorithms, Python, SQL**
 
-- 📫 How to reach me **
+- 📫 How to reach me **cstkolusu@gmail.com**
 
-- 📄 Know about my experiences [I am currently working with.]
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
