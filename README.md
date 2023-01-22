@@ -52,4 +52,36 @@ Here are some ideas to get you started:
 
 MY PROJECTS-
 
+**Detecting diabetic patients using ML with Deployment| AWS, Flask	   			January 2022                                                                                                  
+Predicted diabetic patients with ML algorithm and deployed on the AWS Cloud platform using Flask API.**
+
+**Ensemble Learning| Wine Quality | Python						January 2022
+Built different Ensemble ML models using Bagging, Random Forest, Stacking, and Boosting algorithms to analyze diabetes results and wine quality data and concluded them.**
+
+**Predicting Wine quality| Python								January 2022
+Built ML model using SVM and predicted red-wine quality based on features such as PH and acidity.**
+
+**Unsupervised learning| Python								December 2022
+Built an unsupervised clustering ML model using DBSCAN with an artificial dataset.**
+
+**Spending capacity prediction| Python							December 2022
+Built an unsupervised ML model using K means to find out the similar kind of customers on the factor of spending score at the mall.**
+
+
+**Diabetic results Prediction| Python							November 2022
+Built ML models using the KNN algorithm, Logit Regression, and Naive Bayes to decide the diabetic outcome of patients evaluating different features.**
+
+**Shortlisting the Toronto Raptors basketball team for NBA 2023| Python               		November 2022
+Performed EDA using Pandas and Seaborn to select the best team squad of probable playing 20 out of 600 players based on different crucial game factors.**
+
+**Predicting relationship between salary and position| Python				November 2022
+Built an ML model using Polynomial Regression to predict Salaries based on Positions and concluded that.**
+
+**Predicting Admissions| Python 								November 2022
+Built an ML model using Multilinear Regression with Regularization to predict the chance of admission for students based on GRE Score, TOEFL Score, and CGPA and concluded that.**
+
+**Height & weight Analysis| ML								November 2022
+Built an ML model using Simple Linear Regression to predict Men’s height and weight data and concluded that.**
+
+
 
